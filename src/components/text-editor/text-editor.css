@@ -1,0 +1,21 @@
+textarea {
+	border: 1px solid rgba(104, 104, 104, 0.24);
+	outline: none;
+	resize: none;
+	box-shadow: none;
+}
+textarea:active {
+	outline: none;
+	outline-offset: none;
+	box-shadow: none;
+}
+textarea:hover {
+	outline: none;
+	outline-offset: none;
+	box-shadow: none;
+}
+textarea:focus {
+	outline: none;
+	outline-offset: none;
+	box-shadow: none;
+}

@@ -1,0 +1,27 @@
+.note-list-item {
+	display: flex;
+	margin-bottom: 10px;
+	height: 40px;
+	background-color: rgba(241, 241, 241, 0.514);
+	padding: 5px;
+}
+
+.note-list-text {
+	width: 80%;
+	display: flex;
+	cursor: pointer;
+}
+
+.ordinal {
+	margin-right: 20px;
+	margin-left: 10px;
+	border-right: 1px solid rgba(163, 163, 163, 0.514);
+	width: 35px;
+
+	font-size: large;
+	font-weight: bold;
+}
+
+.lebel {
+	padding-top: 4px;
+}
